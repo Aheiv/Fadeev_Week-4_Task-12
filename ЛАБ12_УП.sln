@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ЛАБ12_УП", "ЛАБ12_УП\ЛАБ12_УП.csproj", "{18FB49A1-DCF0-4CEC-8DAA-020573702568}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ЛАБ12_WinForms", "ЛАБ12_WinForms\ЛАБ12_WinForms.csproj", "{48D5A11D-2E20-4E9C-83FC-A1B6DCB2F3FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18FB49A1-DCF0-4CEC-8DAA-020573702568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18FB49A1-DCF0-4CEC-8DAA-020573702568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18FB49A1-DCF0-4CEC-8DAA-020573702568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18FB49A1-DCF0-4CEC-8DAA-020573702568}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48D5A11D-2E20-4E9C-83FC-A1B6DCB2F3FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48D5A11D-2E20-4E9C-83FC-A1B6DCB2F3FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48D5A11D-2E20-4E9C-83FC-A1B6DCB2F3FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48D5A11D-2E20-4E9C-83FC-A1B6DCB2F3FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D31E1992-F889-4A40-B8F8-0298F4F5181A}
+	EndGlobalSection
+EndGlobal
